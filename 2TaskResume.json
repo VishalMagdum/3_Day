@@ -1,0 +1,76 @@
+{
+   "personalinfo":{ 
+       "first_name":"Vishal",
+       "last_name":"Magdum",
+       "status":"student",
+       "email":"vishalmagdum17899@gmail.com",
+       "phone":"(91) 8805158006",
+       "objective":"Seeking a good position in progressive organization where my skills and knowledge could be subjected and utilized for benefit of organization and myself",
+       "address":{
+        "house_name":"252-2 Magdum",
+        "postalCode":"416101",
+        "city":"chipari",
+        "state":"maharashtra",
+        "district":"kolhapur"
+       },
+
+    "portfolio":"https://vishalmagdum/portfolio.com"
+
+   },
+   "equcation":[
+    {
+        "institution":"Dr. J. J. Magdum College Of Eng. Jaysingpur",
+        "area":"Electronics And Telecommunication",
+        "type":"Bechelor Of Technology",
+        "acdamicYear":"2018-2022",
+        "percentage":"78.30"
+
+    },{
+        "institution":"Navejeevan Jr.College Jaysingpur",
+        "area":"science",
+        "type":"HSC",
+        "acdamicYear":"2017-2018",
+        "percentage":"58.30"
+    },
+    {
+        "institution":"J. B. Patil Highschool Chipari",
+        "area":"",
+        "type":"SCC",
+        "acdamicYear":"2017-2018",
+        "percentage":"58.30"
+    }
+   ],
+   "internship":[
+           {
+            "company":"virag vigyan",
+            "area":"web development",
+            "duration":"3 month"
+           }
+   ],
+   "projects":[
+    {
+        "name":"DC Power Supply",
+        "discription":"I have completed project which contain design of circuit with combination of Transformer, Rectifier, Regulator, LED etc. To Convert 230VAC Supply to 5V DC."
+    },
+    {
+        "name":"security system",
+        "discription":"I have design a Security sensor using IR sensors and LM393 IC . This security system works Like leaser security system but not this not visible like leaser lights."
+    },
+    {
+        "name":"Hotel Website",
+        "discription":"I have design a Security sensor using IR sensors and LM393 IC . This security system works Like leaser security system but not this not visible like leaser lights."
+    }
+
+   ],
+    "skill":[
+        "web development","C programming","javascript","MySQL","EXCEL"
+    ],
+
+    "strength":[
+        "leadership","dedicated to work","pressure handling"
+    ],
+    "hobbies":[
+        "travelling","designing","reading"
+    ]
+    
+}
